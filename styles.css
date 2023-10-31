@@ -1,0 +1,31 @@
+* {
+    background-color: hsl(35, 49%, 62%)
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#image-home {
+    width: 450px;
+    height: auto;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#home-header {
+    font-size: 48px;
+}
+
+.home-food-lists {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
